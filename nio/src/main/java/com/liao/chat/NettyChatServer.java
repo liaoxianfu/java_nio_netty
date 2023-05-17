@@ -3,6 +3,7 @@ package com.liao.chat;
 
 /**
  * netty 实现聊天服务启动类
+ * 进行修复
  */
 public class NettyChatServer implements ChatServer {
     @Override
