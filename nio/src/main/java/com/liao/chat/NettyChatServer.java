@@ -13,6 +13,7 @@ public class NettyChatServer implements ChatServer {
 
     @Override
     public void stop() throws Exception {
+        // 实现其他功能
         System.out.println("netty 服务关闭");
     }
 }
